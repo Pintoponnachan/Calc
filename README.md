@@ -156,7 +156,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![image](https://github.com/Mugilan212/Calc/assets/144508901/e6c848fb-be1d-4f89-8391-bafa8634941d)
-![image](https://github.com/Mugilan212/Calc/assets/144508901/a592ac0c-44d4-4f53-96e6-b8990f6a21dd)
+![image](https://github.com/Pintoponnachan/Calc/assets/131936892/3d48561c-be71-4360-ad28-dfb7abe51ee2)
+![image](https://github.com/Pintoponnachan/Calc/assets/131936892/e889df9b-4d9a-4ae1-968d-be74870c9e85)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
